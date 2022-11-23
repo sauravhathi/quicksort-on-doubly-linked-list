@@ -6,6 +6,8 @@ This is a simple web app that demonstrates the working of Quick Sort on Doubly L
 
 ### https://sauravhathi.github.io/quicksort-on-doubly-linked-list/
 
+![image](https://user-images.githubusercontent.com/61316762/203544660-1b43160e-bbba-43fd-bcb7-d1c0d8e5365a.png)
+
 ## Functions
 
 ### reset()
